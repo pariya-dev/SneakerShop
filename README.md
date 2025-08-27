@@ -1,7 +1,8 @@
 # SneakerShop
 SneakerShop-Backend
 
-ระบบ CRUD ADMIN, PRODUCT, TYPE
+ระบบ CRUD (ADMIN, PRODUCT, TYPE)
+
 HTML + CSS + PHP + BOOTSTRAP
 
 
